@@ -8,7 +8,7 @@ Done,ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 ,359,Logger Rate Limiter,70.8%,Easy,0.8923791710791219," https://leetcode.com/problems/logger-rate-limiter"
 ,846,Hand of Straights,54.2%,Medium,0.8134036283108474," https://leetcode.com/problems/hand-of-straights"
 ,659,Split Array into Consecutive Subsequences,43.7%,Medium,0.7934909280390994," https://leetcode.com/problems/split-array-into-consecutive-subsequences"
-,1,Two Sum,45.6%,Easy,0.781823017283614," https://leetcode.com/problems/two-sum"
+1,1,Two Sum,45.6%,Easy,0.781823017283614," https://leetcode.com/problems/two-sum"
 ,1423,Maximum Points You Can Obtain from Cards,42.6%,Medium,0.7734023603473162," https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards"
 ,1153,String Transforms Into Another String,35.8%,Hard,0.6974963641784472," https://leetcode.com/problems/string-transforms-into-another-string"
 ,642,Design Search Autocomplete System,44.7%,Hard,0.6402789449071344," https://leetcode.com/problems/design-search-autocomplete-system"
